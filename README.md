@@ -293,4 +293,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Happy Learning! 🎓**
 
-For questions, issues, or contributions, please visit the [GitHub repository](https://github.com/your-username/vscode-learning-extension).
+For questions, issues, or contributions, please visit the [GitHub repository](https://github.com/trongnguyenbinh/vscode-learning-extension).
